@@ -1,0 +1,126 @@
+[
+   {
+      "post_id": 0,
+      "user_id":0,
+      "likes":8,
+      "shares":3,
+      "game_id":2,
+      "game_name":"Minecraft",
+      "review":false,
+      "review_stars":0,
+      "title":"Fiz minha primeira horta ",
+      "date":"29/08/2032",
+      "imgPost":"https://steamuserimages-a.akamaihd.net/ugc/961977805670614557/F679DD400EBEB0E0E11557328D3D0F2145CC7BE0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "content":"Em Minecraft, concluí minha primeira horta agrícola e estou radiante. Com trabalho árduo, plantei sementes, cuidei das plantas e finalmente colhi cenouras suculentas e batatas frescas. Além de garantir minha sobrevivência no jogo, a horta trouxe sustentabilidade e beleza à minha base. Essa conquista me ensinou perseverança e valorizar o trabalho árduo. Estou animado para novas aventuras em Minecraft, mas sempre lembrarei com orgulho do começo da minha jornada de crescimento neste mundo virtual.",
+      "comments":[
+         {
+            "user_id":1,
+            "content":"Gostei muito da ideia, vou tentar construir a minha.",
+            "date":"29/08/2032"
+         },
+         {
+            "user_id":2,
+            "content":"Parabens pelo esforço amigo, não jogo muito minecraft mas acho um jogo bem bacana.",
+            "date":"29/08/2032"
+         }
+      ]
+   },
+   {
+      "post_id": 1,
+      "user_id":1,
+      "likes":15,
+      "shares":2,
+      "game_id":7,
+      "game_name":"League of Legends",
+      "review":false,
+      "review_stars":0,
+      "title":"Acabei de comprar o personagem Udyr",
+      "date":"28/08/2032",
+      "imgPost":"https://static1-br.millenium.gg/articles/8/52/68/@/91537-udyr-0-article_image_t-1.jpg",
+      "content":"Quando me deparei com os reinos de League of Legends, um campeão me chamou a atenção, Udyr, o guardião espiritual. Intrigado por sua conexão com a natureza e sua habilidade de se transformar em diferentes animais, decidi desbravar seu potencial pela primeira vez. Explorar os quatro aspectos de Udyr, combinando habilidades estratégicas e adaptação constante, foi uma experiência reveladora. Aprender a equilibrar agressividade e cautela, alternando entre defesa e ataque, proporcionou uma sensação de domínio sobre a natureza e meus oponentes. ",
+      "comments":[
+         {
+            "user_id":0,
+            "content":"Udyr é um verdadeiro mestre das transformações! A habilidade de alternar entre diferentes animais durante a partida é única e traz um dinamismo incrível para o jogo. Estou animado para aprimorar minhas jogadas com ele!",
+            "date":"28/08/2032"
+         },
+         {
+            "user_id":2,
+            "content":"Caramba, também joguei com o Udyr pela primeira vez e fiquei impressionado com seu poder de transformação! ",
+            "date":"28/08/2032"
+         },
+         {
+            "user_id":3,
+            "content":"Udyr é um dos campeões mais versáteis do League of Legends.",
+            "date":"28/08/2032"
+         }
+      ]
+   },
+   {
+      "post_id": 2,
+      "user_id":2,
+      "likes":12,
+      "shares":0,
+      "game_id":23,
+      "game_name":"God of War",
+      "review":true,
+      "review_stars":4,
+      "title":"Uma Experiência Inigualável",
+      "date":"26/08/2032",
+      "imgPost":"https://meups.com.br/wp-content/uploads/2018/03/Kratos-ao-Ataque-900x503.jpg",
+      "content":"God of War é simplesmente o melhor jogo que já joguei. Com uma narrativa profunda e envolvente, personagens cativantes e uma jogabilidade fenomenal, esta obra-prima redefine os limites dos jogos. Os gráficos deslumbrantes, a trilha sonora emocionante e a imersão total na mitologia nórdica fazem deste jogo uma experiência imperdível para qualquer amante de videogames. God of War é um verdadeiro marco na indústria e deixa uma marca duradoura em quem o joga. ",
+      "comments":[
+         {
+            "user_id":0,
+            "content":"God of War é uma experiência transformadora! A forma como eles exploraram a mitologia nórdica e trouxeram uma nova perspectiva para o protagonista é brilhante.",
+            "date":"26/08/2032"
+         },
+         {
+            "user_id":1,
+            "content":"God of War conseguiu superar todas as minhas expectativas. A forma como eles desenvolveram a relação entre o protagonista e seu filho é incrível. ",
+            "date":"26/08/2032"
+         },
+         {
+            "user_id":3,
+            "content":"Eu não tenho palavras para descrever o quão incrível é God of War. A qualidade dos detalhes, a profundidade da história e os momentos de tirar o fôlego tornam este jogo uma verdadeira obra de arte.",
+            "date":"27/08/2032"
+         }
+      ]
+   },
+   {
+      "post_id": 3,
+      "user_id":3,
+      "likes":21,
+      "shares":4,
+      "game_id":16,
+      "game_name":"Overwatch",
+      "review":false,
+      "review_stars":0,
+      "title":"Dominando o ritmo do jogo com Lúcio",
+      "date":"25/08/2032",
+      "imgPost":"https://i0.wp.com/www.farofeiros.com.br/wp-content/uploads/2018/11/Ou%C3%A7a-do-%C3%A1lbum-do-L%C3%BAcio-de-Overwatch-Blog-Farofeiros-01.jpg?w=1000&ssl=1",
+      "content":"Desde que adquiri o personagem Lúcio em Overwatch, minha experiência de jogo tem sido transformada. Ele é um verdadeiro mestre do som, capaz de trazer velocidade e poder ao meu time. Com sua habilidade de aumentar a velocidade de movimento dos aliados e curar com suas músicas, sinto-me invencível.Dominar a gameplay com Lúcio exige timing preciso e estratégia inteligente. Aprendi a usar suas habilidades sonoras para empurrar os inimigos para fora de pontos-chave, desestabilizando suas formações e abrindo caminho para a vitória. Além disso, suas paredes de som fornecem uma proteção valiosa quando estou sob fogo intenso.",
+      "comments":[
+         {
+            "user_id":1,
+            "content":"God of War é uma experiência transformadora! A forma como eles exploraram a mitologia nórdica e trouxeram uma nova perspectiva para o protagonista é brilhante.",
+            "date":"25/08/2032"
+         },
+         {
+            "user_id":2,
+            "content":"God of War conseguiu superar todas as minhas expectativas. A forma como eles desenvolveram a relação entre o protagonista e seu filho é incrível. ",
+            "date":"25/08/2032"
+         },
+         {
+            "user_id":4,
+            "content":"Eu não tenho palavras para descrever o quão incrível é God of War. A qualidade dos detalhes, a profundidade da história e os momentos de tirar o fôlego tornam este jogo uma verdadeira obra de arte.",
+            "date":"25/08/2032"
+         },
+         {
+            "user_id":5,
+            "content":"Eu não tenho palavras para descrever o quão incrível é God of War. A qualidade dos detalhes, a profundidade da história e os momentos de tirar o fôlego tornam este jogo uma verdadeira obra de arte.",
+            "date":"26/08/2032"
+         }
+      ]
+   }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "title": "PlayerUnknown's Battlegrounds",
+    "developer":  "PUBG Corporation, KRAFTON, Inc.",
+    "release_date": "Março de 2017",
+    "thumbnail": "/imagens/imagensGames/pubgImage.jpg",
+    "description": "PlayerUnknown's Battlegrounds (PUBG) é um jogo do gênero battle royale, uma mistura de sobrevivência e exploração de territórios. No PUBGS, os competidores são lançados de paraquedas numa ilha sem absolutamente nada. Tudo, incluindo as próprias roupas e armas, tem que ser conquistado dentro do território, enquanto o jogador tenta superar os obstáculos e se manter na ilha o maior tempo possível. Até 100 jogadores podem ser lançados na ilha de uma vez, mas há apenas um ganhador, ou uma equipe vencedora, caso esteja jogando em times.",
+    "steam_profile": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/",
+    "tags": "FPS, battle royale"
+  },
+  {
+    "id": 2,
+    "title": "Minecraft",
+    "developer":  "Mojang",
+    "release_date": "Novembro de 2011",
+    "thumbnail": "/imagens/imagensGames/minecraftImage.jpeg",
+    "description": "A ideia básica desse jogo que conquista multidões é a construção por blocos. Os competidores precisam recolher recursos para que possam sobreviver, criando ambientes de maneira criativa. O jogo possui vários modos distintos, mas o principal é Survival. Nele, o objetivo é passar por diferentes fases, cada vez mais complicadas, até chegar à batalha final, com o Ender Dragon. A primeira versão de Minecraft foi lançada em 2009 e no Brasil o jogo lidera a lista com a maior quantidade de horas no Youtube Gaming.",
+    "steam_profile": "https://www.minecraft.net/pt-br",
+    "tags": "Sandbox"
+  },
+  {
+    "id": 3,
+    "title": "Apex Legends",
+    "developer":  "Respawn Entertainment",
+    "release_date": "Fevereiro de 2019",
+    "thumbnail": "/imagens/imagensGames/apexLegendsImage.jpg",
+    "description": "Nesse battle royale game, você precisa ser muito esperto, rápido e certeiro para levar a melhor. Cada Lenda disponível para o jogo tem sua própria personalidade (alguns são soldados, outros bandidos) e dispõe de habilidades únicas que, se bem exploradas por você, podem levar seu Esquadrão à vitória. E a vitória nos Jogos Apex significa riqueza, glória e fama.",
+    "steam_profile": "https://store.steampowered.com/app/1172470/Apex_Legends/",
+    "tags": "FPS, battle royale"
+  },
+  {
+    "id": 4,
+    "title": "Fortnite",
+    "developer":  "Epic Games",
+    "release_date": "Julho de 2017",
+    "thumbnail": "/imagens/imagensGames/fortiniteImage.jpg",
+    "description": "Um dos jogos mais populares e celebrados em todo o mundo, Fortnite foi lançado em 2017 e atraiu 125 milhões de jogadores somente no seu primeiro ano de estreia. Hoje, existem duas modalidades do game, Fortnite: Save the World e Fortnite: Battle Royale. Nos dois modos de jogar, você deve coletar materiais como madeira, tijolo e metal para a construção das suas fortificações. Além disso, armas estão disponíveis para que você consiga finalizar uma missão ou ser o último jogador no mapa.",
+    "steam_profile": "https://store.epicgames.com/pt-BR/p/fortnite--robo-ray-pack",
+    "tags": "FPS, battle royale"
+  },
+  {
+    "id": 5,
+    "title": "Counter-Strike: Global Offensive",
+    "developer":  "Valve Corporation, Hidden Path Entertainment",
+    "release_date": "Agosto de 2012",
+    "thumbnail": "/imagens/imagensGames/csgoImage.jpg",
+    "description": "O que é bom nunca sai de moda, não é verdade? O super popular Counter- Strike, lançado em 1999, é um bom exemplo disso. Disponível desde 2012 com a versão Global Offensive (CS:GO), o jogo é um dos mais tradicionais no mundo dos games. Os jogadores competem em equipes e se posicionam como terroristas (T) e contra terroristas (CT). Os jogadores T devem implantar uma bomba no campo inimigo, enquanto os CT têm que desativá-la, destruindo inimigos e protegendo as possíveis vítimas.",
+    "steam_profile": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?l=portuguese",
+    "tags": "FPS"
+  },
+  {
+    "id": 6,
+    "title": "Hearthstone: Heroes of Warcraft",
+    "developer":  "Blizzard Entertainment",
+    "release_date": "Março de 2014",
+    "thumbnail": "/imagens/imagensGames/hearthstoneImage.jpg",
+    "description": "Os criadores de Hearthstone: Heroes of Warcraft o definem como fácil de aprender e impossível de largar. Funciona assim: os jogadores devem escolher cartas de modo a montar um deck, que nada mais é do que uma coleção de armas e feitiços. O deck de cada competidor é representado por um herói, que tem poderes únicos. A força de cada herói é provada no campo de batalha onde os mais fortes sobrevivem. A ideia do jogo é simples e ele está disponível gratuitamente e em português.",
+    "steam_profile": "https://hearthstone.blizzard.com/pt-br",
+    "tags": "Jogo de cartas estratégico on-line"
+  },
+  {
+    "id": 7,
+    "title": "League of Legends",
+    "developer":  "Riot Games",
+    "release_date": "Outubro de 2009",
+    "thumbnail": "/imagens/imagensGames/leagueoflegendsImage.webp",
+    "description": "Conhecido como LOL, o League of Legends é o favorito entre os gamers, uma verdadeira febre no mundo dos jogos online! O objetivo do jogo é entrar no campo inimigo com os chamados Campeões - que possuem poderes distintos -, vencer os obstáculos, chegar ao Nexus (o coração da base de cada equipe ou competidor) e destruí-lo. O League of Legends conta com competições internacionais enormes, reunindo fãs de todos os lugares do mundo. O principal evento de LOL no Brasil é o Campeonato Brasileiro de League of Legends (CBLoL).",
+    "steam_profile": "https://www.leagueoflegends.com/pt-br/",
+    "tags": "Multiplayer Online Battle Arena (MOBA)"
+  },
+  {
+    "id": 8,
+    "title": "Among Us",
+    "developer":  "InnerSloth, PlayEveryWare",
+    "release_date": "Junho de 2018",
+    "thumbnail": "/imagens/imagensGames/amongusImage.webp",
+    "description": "Among Us foi lançado em 2018, mas foi no ano de 2020 que caiu na graça do público. O jogo consiste em uma sala onde os jogadores recebem um título no início de cada partida: impostor ou tripulante. O impostor (ou impostores) devem matar os tripulantes ou sabotar a nave onde se encontram. Uma votação pode ser realizada a qualquer momento para que todos votem em quem acham ser o impostor para expulsá-lo da aeronave.",
+    "steam_profile": "https://store.steampowered.com/app/945360/Among_Us/",
+    "tags": "Dedução social"
+  },
+  {
+    "id": 9,
+    "title": "Call of Duty Warzone",
+    "developer":  "Raven Software, Infinity Ward",
+    "release_date": "Março de 2020",
+    "thumbnail": "/imagens/imagensGames/callofdutyImage.jpg",
+    "description": "Lançado em 2020, Call of Duty Warzone se tornou uma grande febre dentro da comunidade online de jogos atingindo atualmente cerca de 6 milhões de jogadores ativos.",
+    "steam_profile": "https://www.callofduty.com/br/pt/warzone",
+    "tags": "FPS"
+  },
+  {
+    "id": 10,
+    "title": "Dota 2",
+    "developer":  "Valve Corporation",
+    "release_date": "agosto de 1996",
+    "thumbnail": "/imagens/imagensGames/dota2Image.png",
+    "description": "Este clássico jogo foi lançado em 2011 e continua popular até os dias de hoje, com milhões de jogadores ativos mensalmente. Em Dota 2, você pode jogar online ou offline e deve ser extremamente estrategista para se tornar o campeão da partida. O objetivo principal, em qualquer um dos modos de jogo, é derrotar a equipe inimiga.",
+    "steam_profile": "https://www.dota2.com/home",
+    "tags": "Battle Arena"
+  },
+  {
+    "id": 11,
+    "title": "Free Fire",
+    "developer":  " 111dots Studio",
+    "release_date": "Agosto de 2017",
+    "thumbnail": "/imagens/imagensGames/freefireImage.webp",
+    "description": "Neste clássico battle royale, lute até que você seja o último sobrevivente da ilha. Quando lançado, Garena Free Fire se tornou o Melhor Jogo em Voto Popular pela Google Play e atraiu milhões de gamers que se tornaram aficionados pela aventura. No jogo, você tem a possibilidade de batalhar com até 50 jogadores, explorar a ilha e obter armas e outros equipamentos para se tornar o vencedor da partida.",
+    "steam_profile": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=pt_BR&gl=US&pli=1",
+    "tags": "Battle Royale"
+  },
+  {
+    "id": 12,
+    "title": "Roblox",
+    "developer":  "  Roblox Corporation",
+    "release_date": "Setembro de 2006",
+    "thumbnail": "/imagens/imagensGames/robloxImage.jpg",
+    "description": "Neste clássico battle royale, lute até que você seja o último sobrevivente da ilha. Quando lançado, Garena Free Fire se tornou o Melhor Jogo em Voto Popular pela Google Play e atraiu milhões de gamers que se tornaram aficionados pela aventura. No jogo, você tem a possibilidade de batalhar com até 50 jogadores, explorar a ilha e obter armas e outros equipamentos para se tornar o vencedor da partida.",
+    "steam_profile": "https://www.roblox.com/",
+    "tags": "Sandbox"
+  },
+  {
+    "id": 13,
+    "title": "World of Tanks",
+    "developer":  " Wargaming, Lesta Studio, Wargaming.net, Day 1 Studios, Persha Studia",
+    "release_date": "Agosto de 2010",
+    "thumbnail": "/imagens/imagensGames/worldoftanksImage.jpg",
+    "description": "Ambientado durante a Segunda Guerra Mundial e a Guerra Fria, World of Tanks é um jogo para quem ama veículos de combate e muita ação. Neste game, existem 700 veículos de diversas nações para você escolher, entre tanques, caça tanques, tanques médios, pesados e artilharias. No jogo, você é colocado em um mapa aleatório e pode controlar seu veículo de guerra e se comunicar com os outros jogadores através do chat.",
+    "steam_profile": "https://worldoftanks.com/pt-br/",
+    "tags": "Multiplayers, Guerra"
+  },
+  {
+    "id": 14,
+    "title": "CrossFire",
+    "developer":  "Smilegate",
+    "release_date": "Maio de 2007",
+    "thumbnail": "/imagens/imagensGames/crossfireImage.jpg",
+    "description": "Devido a sua grande popularidade na Ásia, CrossFire se tornou um dos jogos mais jogados do mundo de todos os tempos. Ele foi lançado em 2007 na Coréia do Sul e se tornou o jogo mais jogado do mundo em 2014. Ao longo dos anos, esse jogo de tiro em primeira pessoa continua extremamente popular ao redor do mundo.",
+    "steam_profile": "https://br.crossfire.z8games.com/",
+    "tags": "Multiplayers, FPS"
+  },
+  {
+    "id": 15,
+    "title": "RuneScape",
+    "developer":  "Jagex",
+    "release_date": "Janeiro de 2001",
+    "thumbnail": "/imagens/imagensGames/runescapeImage.jpg",
+    "description": "Este jogo de fantasia de RPG para multijogadores foi lançado em 2001 e continua com grande popularidade ao redor do mundo. A história do jogo se passa no mundo de Gielinor, um mundo medieval fantástica com diferentes reinos e cidades. Os jogadores podem viajar pela ocações através de diversas mobilidades. Desafios, quests e monstros podem ser encontrados ao longo desta fantástica jornada.",
+    "steam_profile": "https://www.runescape.com/l=3/splash",
+    "tags": "MMORPG"
+  },
+  {
+    "id": 16,
+    "title": "Overwatch",
+    "developer": "Blizzard Entertainment, Iron Galaxy Studios",
+    "release_date": "Maio de 2016",
+    "thumbnail": "/imagens/imagensGames/overwatchImage.webp",
+    "description": "Nessa batalha virtual, duas equipes de seis componentes disputam a vitória. Cada jogador deve escolher um herói que pode cumprir basicamente três funções diferentes: dano, tanque e suporte. Na primeira função, o herói é responsável pelo ataque aos inimigos. Na segunda, ele deve resistir e destruir posições fortificadas dos adversários. Já no último caso, o herói tem de dar apoio a sua equipe, protegendo e garantindo sua sobrevivência. Há vários modos de jogo e os níveis vão de 1 a 5, sendo o 1 mais básico e o 5 mais avançado.",
+    "steam_profile": "https://overwatch.blizzard.com/pt-br/",
+    "tags": "Multiplayers, FPS"
+  },
+  {
+    "id": 17,
+    "title": "Valorant",
+    "developer": "Riot Games",
+    "release_date": "Junho de 2020",
+    "thumbnail": "/imagens/imagensGames/valorantImage.jpg",
+    "description": "Valorant é um jogo de tiro tático 5X5. Vence o grupo que primeiro cumprir a missão (que pode ser detonar uma bomba ou desarmá-la) ou eliminar todos os jogadores do grupo adversário. Uma coisa bem legal nesse game é que cada personagem dispõe de poderes especiais únicos. Para vencer, é preciso usar bem essas habilidades e saber combiná-las com as estratégias do seu time. O jogo está disponível gratuitamente!",
+    "steam_profile": "https://playvalorant.com/pt-br/?gad=1&gclid=CjwKCAjwvJyjBhApEiwAWz2nLUgGOJeiOp9HpjGoEVVjQZqVSCBtVhIyyzv4-8uoOdQFLc7N8MBA5RoCnf8QAvD_BwE&gclsrc=aw.ds",
+    "tags": "Multiplayers, FPS"
+  },
+  {
+    "id": 18,
+    "title": "Tom Clancy's Rainbow Six: Siege",
+    "developer": " Ubisoft Montreal",
+    "release_date": "Dezembro de 2015",
+    "thumbnail": "/imagens/imagensGames/rainbowsixsiegeImage.jpeg",
+    "description": "Rainbox Six: Siege faz parte da série de jogos da Ubisoft inspirada nos livros do autor Tom Clancy. Os competidores assumem papéis em uma equipe treinada para acabar com alguns planos terroristas e são divididos em Ataque e Defesa. O time de ataque deve trabalhar para desativar as bombas, enquanto o de defesa deve garantir que os adversários não atinjam seu objetivo. O jogo requer estratégia para montar as equipes, assim como um bom entendimento dos mapas onde as batalhas acontecem.",
+    "steam_profile": "https://www.ubisoft.com/pt-br/game/rainbow-six/siege/",
+    "tags": "Multiplayers, FPS"
+  },
+  {
+    "id": 19,
+    "title": "FIFA 23",
+    "developer": "  EA Sports, Electronic Arts",
+    "release_date": "Setembro de 2022",
+    "thumbnail": "/imagens/imagensGames/fifa23Image.webp",
+    "description": "FIFA 23 é a 29º inclusão na série de jogos de futebol FIFA.O jogo quebrou recordes em sua semana de lançamento com mais de 10,3 milhões de downloads. Atualmente, é estimado um total de 90 mil jogadores simultâneos.",
+    "steam_profile": "https://www.ea.com/pt-br/games/fifa/fifa-23",
+    "tags": "Futebol"
+  },
+  {
+    "id": 20,
+    "title": "GTA 5",
+    "developer": "Rockstar Games",
+    "release_date": "Setembro de 2013",
+    "thumbnail": "/imagens/imagensGames/gta5.webp",
+    "description": "A sétima inclusão da franquia Grand Theft Auto, GTA 5, foi lançada em 2013 e continua fazendo muito sucesso entre jogadores de várias partes do mundo. Na versão de jogador único, a história é focada em três protagonistas que cometem assaltos sob a pressão de um governo corrupto e de outros criminosos. Já a versão multijogador, permite com que 30 jogadores simultâneos colaborem em diferentes missões cooperativas ou competitivas.",
+    "steam_profile": "https://www.rockstargames.com/br/gta-v",
+    "tags": "Mundo aberto, sandbox, tiro em terceira pessoa"
+  },
+  {
+    "id": 21,
+    "title": "Red Dead Redemption 2",
+    "developer": "Rockstar Games",
+    "release_date": "Outubro de 2018",
+    "thumbnail": "/imagens/imagensGames/reddeadrImage.webp",
+    "description": "A história se passa em 1899 em uma representação ficcional do oeste, meio-oeste e sul dos Estados Unidos e acompanha o fora da lei Arthur Morgan, que precisa lidar com o declínio do Velho Oeste e sobreviver à perseguição de forças governamentais, gangues rivais e outros adversários.",
+    "steam_profile": "https://www.rockstargames.com/reddeadredemption2/",
+    "tags": "Mundo aberto"
+  },
+  {
+    "id": 22,
+    "title": "Rocket League",
+    "developer": "Psyonix",
+    "release_date": "Julho de 2015",
+    "thumbnail": "/imagens/imagensGames/rocketleagueImage.webp",
+    "description": "Descrito como futebol, mas com carros movidos a foguete, Rocket League tem de um a quatro jogadores designados para cada uma das duas equipes, usando veículos movidos a foguete para acertar o gol do adversário e marcar pontos ao longo de uma partida.",
+    "steam_profile": "https://www.rocketleague.com/pt-br/",
+    "tags": "Futebol com carros"
+  },
+  {
+    "id": 23,
+    "title": "God of War",
+    "developer": "Santa Monica Studio, Jetpack Interactive",
+    "release_date": "Março de 2005",
+    "thumbnail": "/imagens/imagensGames/godofwarImage.jpg",
+    "description": "God of War é um jogo eletrônico de ação-aventura apresentado a partir de uma perspectiva em terceira pessoa. O jogo conta com uma jogabilidade muito diferente dos jogos anteriores e foi reconstruído a partir do zero. Apesar de God of War: Ascension (2013) ter introduzido o modo multijogador para a série, este título é de apenas de um jogador.",
+    "steam_profile": "https://store.epicgames.com/pt-BR/p/god-of-war",
+    "tags": "Ação-aventura"
+  },
+  {
+    "id": 24,
+    "title": "Resident Evil",
+    "developer": "Capcom, Westwood Studios, Nex Entertainment",
+    "release_date": "Março de 1996",
+    "thumbnail": "/imagens/imagensGames/residentevilImage.webp",
+    "description": "Resident Evil, conhecido no Japão como Biohazard (バイオハザード), é um jogo eletrônico de survival horror lançado originalmente para Playstation. ",
+    "steam_profile": "https://game.capcom.com/residentevil/en/",
+    "tags": "FPS, Zumbi"
+  },
+  {
+    "id": 25,
+    "title": "Forza",
+    "developer": "Turn 10 Studios, Playground Games, Xbox Game Studios, Sumo Digital",
+    "release_date": "Maio de 2005",
+    "thumbnail": "/imagens/imagensGames/forzaImage.jpg",
+    "description": "É uma série de videogames de corrida para consoles Xbox e Microsoft Windows publicados pela Xbox Game Studios. A franquia está atualmente dividida em duas séries, a série original Forza Motorsport desenvolvida pela Turn 10 Studios e a série Forza Horizon, de foco em mundo aberto, desenvolvida principalmente pela Playground Games. A série Forza procura emular as características do desempenho e de condução de um grande número de carros de produção, modificados ou de corrida da vida real. Forza é visto frequentemente como a resposta da Microsoft a Gran Turismo para os consoles PlayStation.",
+    "steam_profile": "https://www.xbox.com/pt-br/games/forza-horizon-5?",
+    "tags": "Corrida"
+  },
+  {
+    "id": 26,
+    "title": "The Sims",
+    "developer": "Maxis, Edge of Reality",
+    "release_date": "Fevereiro de 2000",
+    "thumbnail": "/imagens/imagensGames/thesimsImage.jpg",
+    "description": "The Sims é uma série de jogos eletrônicos de simulação de vida real criado pelo designer de jogos Will Wright e produzida pela Maxis. O primeiro jogo da série, The Sims, foi lançado em 4 de fevereiro de 2000. Os jogos da série The Sims são, em grande parte, jogos sandbox, pois não possuem objetivos definidos.",
+    "steam_profile": "https://www.ea.com/pt-br/games/the-sims",
+    "tags": "Construção"
+  },
+  {
+    "id": 27,
+    "title": "Gran Turismo",
+    "developer": "Sony Interactive Entertainment, Polyphony Digital",
+    "release_date": "Março de 2022",
+    "thumbnail": "/imagens/imagensGames/grantourismImage.jpg",
+    "description": "Com mais de 420 carros disponíveis na Brand Central e a concessionária de carros usados desde o primeiro dia, Gran Turismo 7 recria o visual e a sensação de motores clássicos e supercarros de ponta com detalhes inigualáveis. Cada carro é controlado de forma diferente e oferece uma sensação única enquanto você percorre mais de 90 pistas em condições climáticas dinâmicas, incluindo pistas clássicas da história do GT.",
+    "steam_profile": "https://www.playstation.com/pt-br/games/gran-turismo-7/",
+    "tags": "Corrida"
+  },
+  {
+    "id": 28,
+    "title": "Day Z",
+    "developer": "Bohemia Interactive Studio, Dean Hall",
+    "release_date": "Dezembro de 2013",
+    "thumbnail": "/imagens/imagensGames/dayzImage.jpeg",
+    "description": "O jogo DayZ tem como objetivo principal a sobrevivência em um contexto de infecção global, onde aqueles que são infectados pelo vírus desconhecido se tornam extremamente agressivos. Diferentemente dos Zumbis tradicionais, os infectados em DayZ são seres vivos e podem ser mortos por tiros em qualquer parte do corpo. Neste cenário desafiador, os jogadores precisam lutar pela sua própria sobrevivência, competindo também com outros jogadores por recursos escassos, como água, comida, armas e medicamentos.",
+    "steam_profile": "https://store.steampowered.com/agecheck/app/221100/",
+    "tags": "Tiro, Zumbi, Mundo aberto"
+  },
+  {
+    "id": 29,
+    "title": "Just Dance",
+    "developer": "Ubisoft",
+    "release_date": "Outubro de 2012",
+    "thumbnail": "/imagens/imagensGames/justdanceImage.webp",
+    "description": "Just Dance, o jogo de dança definitivo, com 40 novas faixas e mais jogabilidade, desde os sucessos das paradas até os grandes clássicos! À procura do jogo perfeito para compartilhar com os amigos e a família? Just Dance 2022 é perfeito para você!",
+    "steam_profile": "https://www.ubisoft.com/pt-br/game/just-dance/2022",
+    "tags": "Dança"
+  },
+  {
+    "id": 30,
+    "title": "Dying Light",
+    "developer": "Techland",
+    "release_date": "Janeiro de 2015",
+    "thumbnail": "/imagens/imagensGames/dyinglightImage.jpg",
+    "description": "É um jogo do gênero survival horror, em conjunto com um vasto e perigoso mundo aberto. Durante o dia, os jogadores percorrem em um ambiente urbano expansivo invadido por um surto vicioso, procurando pelo mundo suprimentos e elaborando armas para se defender contra a crescente população infectada. À noite, o caçador torna-se caçado, os infectados tornam-se agressivos e mais perigosos. Mais assustador são os voláteis (uma espécie de zumbi muito mais agressiva e forte que os tradicionais, porém fracos à luz UV) que aparecem somente após o anoitecer. Os jogadores devem usar tudo em seu poder para sobreviver até a primeira luz da manhã. Uma das características marcantes do jogo é a forma como a personagem se movimentará no ambiente, claramente o seu estilo foi inspirado no parkour, possibilitando que sejam feitos saltos entre edifícios, escalar muros e até usar como apoio os corpos de zumbis para escapar.",
+    "steam_profile": "https://store.epicgames.com/pt-BR/p/dying-light",
+    "tags": "Tiro, Zumbi, Mundo aberto"
+  } 
+]
+

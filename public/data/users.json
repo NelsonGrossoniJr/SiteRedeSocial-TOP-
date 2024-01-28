@@ -1,0 +1,87 @@
+[  
+  {
+    "id": 0,
+    "name": "João Sena",
+    "user_name": "jsena",
+    "password": "123",
+    "profile_pic": "https://iaa.edu.in/public/uploads/user.png",
+    "online": true,
+    "gaming_now": true,
+    "level": 1,
+    "favorite_games": [1, 2, 3, 4],
+    "friends": [1,2]
+  },
+  {
+    "id": 1,
+    "name": "Maria Bragança",
+    "user_name": "mbragança",
+    "password": "123",
+    "profile_pic": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+    "online": true,
+    "gaming_now": false,
+    "level": 420,
+    "favorite_games": [5, 6, 7, 8],
+    "friends": [0, 2, 3]
+  },
+  {
+    "id": 2,
+    "name": "Nilson Grosso",
+    "user_name": "ngrosso",
+    "password": "123",
+    "profile_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8Y7jX-MO7kBf1kM-3Zo3ggfaLs-7o5jI4FCHbGF2wjtE2YBK",
+    "online": false,
+    "gaming_now": false,
+    "level": 100,
+    "favorite_games": [9, 10, 11, 12, 29],
+    "friends": [0, 1, 3]
+  },
+  {
+    "id": 3,
+    "name": "John TeCheira",
+    "user_name": "jtecheira",
+    "password": "123",
+    "profile_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7H_J3UUxzlmEYMkmmks1Emd_8i3EJFGENA&usqp=CAU",
+    "online": true,
+    "gaming_now": true,
+    "level": 69,
+    "favorite_games": [13, 14, 15, 16],
+    "friends": [1, 2, 4, 5]
+  },
+  {
+    "id": 4,
+    "name": "Matt Azedo",
+    "user_name": "mazedo",
+    "password": "123",
+    "profile_pic": "https://wallpapers.com/images/featured/87h46gcobjl5e4xu.jpg",
+    "online": false,
+    "gaming_now": true,
+    "level": 24,
+    "favorite_games": [17, 18, 19, 20],
+    "friends": [3, 5, 6]
+  },
+  {
+    "id": 5,
+    "name": "Vanessa",
+    "user_name": "Vness",
+    "password": "123",
+    "profile_pic": "https://pyxis.nymag.com/v1/imgs/495/ebc/d73218b22d162d00e538205370c8e9db8b-kahrahtay.rsquare.w700.jpg",
+    "online": false,
+    "gaming_now": true,
+    "level": 66,
+    "favorite_games": [21, 22, 23, 24, 30],
+    "friends": [4,6,3]
+  },
+  {
+    "id": 6,
+    "name": "Venom",
+    "user_name": "Vasco",
+    "password": "123",
+    "profile_pic": "https://i.pinimg.com/originals/1d/95/d4/1d95d45fb1906f5fc445709222a69693.jpg",
+    "online": false,
+    "gaming_now": true,
+    "level": 8000,
+    "favorite_games": [25, 26, 27, 28],
+    "friends": [5, 4, 3, 2, 1, 0]
+  }
+  
+] 
